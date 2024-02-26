@@ -1,0 +1,11 @@
+/* App.css */
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+
+/* App.css */
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: 'Yomogi', sans-serif;
+}
